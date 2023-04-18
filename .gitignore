@@ -7,6 +7,7 @@ custom-elements.json
 *.generated.css
 coverage
 playground
+.env
 
 *~
 *.sw[mnpcod]
